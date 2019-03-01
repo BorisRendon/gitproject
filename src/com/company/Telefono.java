@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class Telefono
 {
-    public int numerotelefono()
+    public int numerotelefono(int numero)
     {
-        Scanner input3 = new Scanner(System.in);
+        /*Scanner input3 = new Scanner(System.in);
         char [] mychar3 = new char[0];
         int numero=0;
 
@@ -22,7 +22,7 @@ public class Telefono
                 System.out.println("No se puede ingresar letras. Por favor inténtelo de nuevo.");
             }
 
-        }while(mychar3.length<9);
+        }while(mychar3.length<9);*/
 
         return numero;
     }

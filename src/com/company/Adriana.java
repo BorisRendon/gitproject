@@ -18,9 +18,9 @@ public class Adriana
     //ORIGEN
     public void origen()
     {
-        Origen nombredepartamento = new Origen();
+        //Origen nombredepartamento = new Origen();
 
-
+        //datos en class Origen
     }
 
 }

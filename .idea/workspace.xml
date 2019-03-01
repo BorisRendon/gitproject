@@ -5,12 +5,15 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test/src/test/java/MainTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/src/test/java/MainTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/gitproject/com/company/DPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitproject/com/company/DPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/gitproject/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitproject/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/gitproject/com/company/Origen.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/gitproject/com/company/Origen.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Adriana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Adriana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Boris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Boris.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/DPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Edad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Edad.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Género.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Género.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Nombre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Nombre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Origen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Origen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Telefono.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Telefono.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Test/target/" />
@@ -36,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/src/test/java/MainTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
+            <state relative-caret-position="731">
+              <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Origen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state relative-caret-position="289">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -60,8 +63,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Nombre.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -69,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Género.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="136">
+              <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -79,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Boris.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -87,8 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/DPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            <state relative-caret-position="255">
+              <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -96,17 +99,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Edad.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+            <state relative-caret-position="102">
+              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Adriana.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -114,8 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Telefono.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            <state relative-caret-position="408">
+              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -146,12 +149,13 @@
         <option value="$PROJECT_DIR$/Test/testng.xml" />
         <option value="$PROJECT_DIR$/src/com/company/Nombre.java" />
         <option value="$PROJECT_DIR$/src/com/company/DPI.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Telefono.java" />
         <option value="$PROJECT_DIR$/src/com/company/Edad.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Boris.java" />
         <option value="$PROJECT_DIR$/src/com/company/Género.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Adriana.java" />
         <option value="$PROJECT_DIR$/src/com/company/Origen.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Telefono.java" />
         <option value="$PROJECT_DIR$/Test/src/test/java/MainTests.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Adriana.java" />
       </list>
     </option>
   </component>
@@ -221,7 +225,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551445095571" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551446250875" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -237,16 +241,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.MainTests.nombre">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="gitproject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="TestNG.MainTests.telefono">
+    <configuration name="MainTests.dpi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTests" />
+      <option name="METHOD_NAME" value="dpi" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTests.edad" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTests" />
+      <option name="METHOD_NAME" value="edad" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTests.genero" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTests" />
+      <option name="METHOD_NAME" value="genero" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -263,10 +290,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainTests.telefono" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainTests" />
+      <option name="METHOD_NAME" value="telefono" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MainTests.telefono" />
+        <item itemvalue="TestNG.MainTests.genero" />
+        <item itemvalue="TestNG.MainTests.edad" />
+        <item itemvalue="TestNG.MainTests.dpi" />
         <item itemvalue="TestNG.MainTests.nombre" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -297,16 +339,47 @@
       <option name="project" value="LOCAL" />
       <updated>1551444337214</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge branch 'Maite'&#10;&#10;# Conflicts:&#10;#&#9;.idea/misc.xml&#10;#&#9;src/com/company/Main.java">
+      <created>1551445115374</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1551445115374</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="MainTests_nombre - 2019.03.01 at 06h 48m 10s.xml">
       <configuration name="MainTests.nombre" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="MainTests_nombre - 2019.03.01 at 07h 00m 23s.xml">
+      <configuration name="MainTests.nombre" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainTests_nombre - 2019.03.01 at 07h 02m 32s.xml">
+      <configuration name="MainTests.nombre" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainTests_dpi - 2019.03.01 at 07h 04m 28s.xml">
+      <configuration name="MainTests.dpi" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainTests_dpi - 2019.03.01 at 07h 05m 06s.xml">
+      <configuration name="MainTests.dpi" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainTests_edad - 2019.03.01 at 07h 09m 24s.xml">
+      <configuration name="MainTests.edad" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainTests_edad - 2019.03.01 at 07h 12m 55s.xml">
+      <configuration name="MainTests.edad" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainTests_genero - 2019.03.01 at 07h 14m 34s.xml">
+      <configuration name="MainTests.genero" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MainTests_telefono - 2019.03.01 at 07h 16m 34s.xml">
+      <configuration name="MainTests.telefono" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12507000" />
+    <option name="totallyTimeSpent" value="13652000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -321,7 +394,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14161074" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14161074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -353,7 +426,7 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14161074" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14161074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -363,7 +436,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32719547" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32719547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -443,20 +516,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Boris.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/DPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -464,55 +523,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Nombre.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Telefono.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="408">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Edad.java">
+    <entry file="file://$PROJECT_DIR$/Test/src/test/java/MainTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        <state relative-caret-position="731">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Origen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Nombre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Género.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="136">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Telefono.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Boris.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/DPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Edad.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Adriana.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Origen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/src/test/java/MainTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="50" column="36" selection-start-line="50" selection-start-column="36" selection-end-line="50" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
         </state>
       </provider>
     </entry>

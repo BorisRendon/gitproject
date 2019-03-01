@@ -12,43 +12,43 @@ public class MainTests {
     @Test
     public void nombre(){
         Nombre n = new Nombre();
-        String value=n.requestName();
-        Assert.assertNotNull(value);
+        String value=n.requestName("Pedro");
+        Assert.assertEquals(value, "Pedro");
     }
 
     @Test
     public void dpi(){
         DPI d = new DPI();
-        int value=d.numeroDPI();
-        Assert.assertNotNull(value);
+        int value=d.numeroDPI(999999999);
+        Assert.assertEquals(value, 999999999);
     }
 
     @Test
     public void edad(){
         Edad e = new Edad();
-        boolean value=e.requestEdad();
+        boolean value=e.requestEdad(8);
         Assert.assertFalse(value);
     }
 
     @Test
     public void genero(){
         Género g = new Género();
-        String value=g.RequestGenero();
-        Assert.assertNotNull(value);
+        String value=g.RequestGenero("masculino");
+        Assert.assertEquals(value, "masculino");
     }
 
     @Test
     public void telefono(){
         Telefono t = new Telefono();
-        int value=t.numerotelefono();
-        Assert.assertNotNull(value);
+        int value=t.numerotelefono(22222222);
+        Assert.assertEquals(value,22222222);
     }
 
     @Test
     public void origen(){
         Origen o = new Origen();
-        String value=o.origen9();
-        Assert.assertNotNull(value);
+        String value=o.origen9("Guate");
+        Assert.assertEquals(value, "Guate");
     }
 
 }

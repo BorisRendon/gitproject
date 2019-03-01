@@ -6,11 +6,12 @@ public class Nombre {
     Scanner scanner = new Scanner(System.in);
 
 
-    public String requestName() {
-        System.out.println("Ingrese Nombre y apellido");
+    public String requestName(String nombre) {
+        /*System.out.println("Ingrese Nombre y apellido");
         String input = scanner.nextLine();
         System.out.println("nombre: " + input);
-        return input;
+        return input;*/
+        return nombre;
     }
 
     }

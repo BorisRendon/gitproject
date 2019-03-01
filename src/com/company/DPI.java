@@ -4,11 +4,11 @@ import java.util.Scanner;
 
 public class DPI {
 
-    public int numeroDPI()
+    public int numeroDPI(int codigo)
     {
-        Scanner input = new Scanner(System.in);
+        /*Scanner input = new Scanner(System.in);
         char [] mychar = new char[0];
-        int codigo=0;
+        //int codigo=0;
 
         do {
             try {
@@ -18,7 +18,7 @@ public class DPI {
             } catch (NumberFormatException ex) {
                 System.out.println("No puede ingresar letras");
             }
-        }while(mychar.length<9);
+        }while(mychar.length<9);*/
 
         return codigo;
     }
