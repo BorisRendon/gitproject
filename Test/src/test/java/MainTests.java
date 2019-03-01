@@ -20,30 +20,35 @@ public class MainTests {
     public void dpi(){
         DPI d = new DPI();
         int value=d.numeroDPI();
+        Assert.assertNotNull(value);
     }
 
     @Test
     public void edad(){
         Edad e = new Edad();
-        //int value=e.
+        boolean value=e.requestEdad();
+        Assert.assertFalse(value);
     }
 
     @Test
     public void genero(){
         Género g = new Género();
-        //String value=Main.
+        String value=g.RequestGenero();
+        Assert.assertNotNull(value);
     }
 
     @Test
     public void telefono(){
         Telefono t = new Telefono();
         int value=t.numerotelefono();
+        Assert.assertNotNull(value);
     }
 
     @Test
     public void origen(){
         Origen o = new Origen();
-        //String value=o.
+        String value=o.origen9();
+        Assert.assertNotNull(value);
     }
 
 }
