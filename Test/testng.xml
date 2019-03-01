@@ -4,14 +4,14 @@
    <parameter name="FirstParameter" value="Hello class :)"/>
     <parameter name="SecondParameter" value="Class"/>
     <test name="Example">
-        <classes>
+        <!--<classes>
             <class name="parametersExample.ParametersExample"/>
             <class name="operators.OperatorTests"/>
-        </classes>
+        </classes>-->
     </test>
 
     <listeners>
-        <listener class-name="listeners.ListenerTest"/>
-        <listener class-name="listeners.ListenerSuite"/>
+        <!--<listener class-name="listeners.ListenerTest"/>
+        <listener class-name="listeners.ListenerSuite"/>-->
     </listeners>
 </suite>
