@@ -1,9 +1,9 @@
 package com.company;
 
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        // Soy Adriana Mundo, kp2
-    }
-}
+        // write your code here
+    }}
