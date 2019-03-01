@@ -1,9 +1,9 @@
-//import nombre
-//import dpi
-//import edad
-//import genero
-//import telefono
-//import origen
+import com.company.DPI;
+import com.company.Edad;
+import com.company.Género;
+import com.company.Nombre;
+import com.company.Origen;
+import com.company.Telefono;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -11,39 +11,39 @@ public class MainTests {
 
     @Test
     public void nombre(){
-        //Nombre nombre = new Nombre
-        //String value=Main.nombre();
-        //Assert.assertNotNull(value);
+        Nombre n = new Nombre();
+        String value=n.requestName();
+        Assert.assertNotNull(value);
     }
 
     @Test
-    public void carne(){
-        //Carne carne = new Carne();
-        //String value=Main.
+    public void dpi(){
+        DPI d = new DPI();
+        int value=d.numeroDPI();
     }
 
     @Test
     public void edad(){
-        //Edad edad = new Edad();
-        //String value=Main.
+        Edad e = new Edad();
+        //int value=e.
     }
 
     @Test
     public void genero(){
-        //Genero genero = new Genero();
+        Género g = new Género();
         //String value=Main.
     }
 
     @Test
     public void telefono(){
-        //Telefono telefono = new Telefono;
-        //String value=Main.
+        Telefono t = new Telefono();
+        int value=t.numerotelefono();
     }
 
     @Test
     public void origen(){
-        //Origen origen = new Origen();
-        //String value=Main.
+        Origen o = new Origen();
+        //String value=o.
     }
 
 }

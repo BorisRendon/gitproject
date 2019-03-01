@@ -4,13 +4,13 @@ import java.util.Scanner;
 public class Nombre {
 
     Scanner scanner = new Scanner(System.in);
-    String input = scanner.nextLine();
 
 
-    void requestName() {
+    public String requestName() {
         System.out.println("Ingrese Nombre y apellido");
         String input = scanner.nextLine();
-        System.out.println("input = " + input);
+        System.out.println("nombre: " + input);
+        return input;
     }
 
     }
