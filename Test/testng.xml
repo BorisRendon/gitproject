@@ -10,8 +10,8 @@
         </classes>
     </test>
 
-    <!--<listeners>
-        <listener class-name="listeners.ListenerTest"/>
-        <listener class-name="listeners.ListenerSuite"/>
-    </listeners>-->
+    <listeners>
+        <listener class-name="ListenersTest"/>
+        <!--<listener class-name="listeners.ListenerSuite"/>-->
+    </listeners>
 </suite>

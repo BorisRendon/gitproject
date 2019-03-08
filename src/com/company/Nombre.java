@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Nombre {
 
-    Scanner scanner = new Scanner(System.in);
+    //Scanner scanner = new Scanner(System.in);
 
 
     public String requestName(String nombre) {
